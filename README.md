@@ -1,4 +1,4 @@
 # WordpressAutomation
 This repository is created for the WordPress Automation assessment given by WPPOOL.
 
-I have used Cypress automation tool for completing the Question E. I used VSCODE for running my JavaScript code in Cypress. In the project go the path: CypressAutomation\cypress\integration\examples\wordpressAutomation.js to find the Test suite. I have also uploaded the complete project in this repository.
+I have used Cypress automation tool for completing the Question E. I used VSCODE for running my JavaScript code in Cypress. I don't know why I can't push my project to github right now, maybe I made some mistakes. I drag and drop the wordpressAutomation.js file, hope you will able to understand the test suite by following the js file. Also if you want to check if the automation test suite is working or not, you can simply download the file and paste in your cypress\integration\examples path if you have Cypress invironment installed properly. I would have solve my problems with github but due to short deadline I had to upload only the JS file here but not the entire project. Hope you understand this, and will be able to review my automation test suite. 
